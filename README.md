@@ -1,0 +1,1 @@
+This model analyzes various factors to assess mental health conditions using techniques like NLP, BERT, LLMs, etc ... . It can be used for early detection, trend analysis, or decision support in mental health research.
